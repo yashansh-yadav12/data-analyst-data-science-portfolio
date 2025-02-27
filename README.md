@@ -1,10 +1,9 @@
-# data-analyst-data-science-portfolio
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Science Portfolio - [Your Name]</title>
+    <title>Data Science Portfolio - Yashansh Yadav</title>
     <style>
         body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
         h1 { color: #2E86C1; }
@@ -12,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>📊 [Your Name] - Data Science Portfolio</h1>
+    <h1>📊 Yashansh Yadav - Data Science Portfolio</h1>
     <p>Welcome to my portfolio! Here are some of my featured projects:</p>
     
     <h2>🚀 Featured Projects</h2>
